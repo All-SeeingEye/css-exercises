@@ -1,0 +1,14 @@
+.cl,
+.ncl{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.cl{
+    background-color: black;
+    color: white;
+}
+
+.ncl{
+    background-color: yellow;
+}

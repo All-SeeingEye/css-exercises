@@ -1,0 +1,10 @@
+.odd{
+    background-color: lightpink;
+    font-family: Verdana,'DejaVu Sans',sans-serif;
+}
+
+.even{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
